@@ -29,4 +29,4 @@ b2=st.sidebar.button("login")
 b3=st.sidebar.button("logout")
 
 with st.expander("Open me"):
-    st.image("nit.jpg") 
+    st.image("nit1.jpg") 
