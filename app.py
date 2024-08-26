@@ -29,4 +29,4 @@ b2=st.sidebar.button("login")
 b3=st.sidebar.button("logout")
 
 with st.expander("Open me"):
-    st.image("https://github.com/ramesh86babu/streamlit-demo/blob/main/nit1.JPG") 
+    st.image("nit1.JPG") 
